@@ -1,0 +1,10 @@
+#pragma once
+
+#define DISCORD_APPID "429559336982020107"
+
+#define AIMPPLUGIN_NAME L"DiscordRPC"
+#define AIMPPLUGIN_AUTHOR L"furstamp"
+#define AIMPPLUGIN_SHORT_DESC L"Mostre o que você está escutando no Status do seu Discord"
+
+#define AIMPPLUGIN_FULL_DESC AIMPPLUGIN_SHORT_DESC
+#define AIMPPLUGIN_CATEGORY AIMP_PLUGIN_CATEGORY_ADDONS
